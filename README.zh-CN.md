@@ -73,9 +73,13 @@ systemProp.http.nonProxyHosts=*.nonproxyrepos.com|localhost
 ## 🗺️ 路线图
 CrossPaste 正在持续发展中！我们计划在未来的版本中添加更多实用的功能。以下是我们近期的发展计划概览：
 
-- **v1.1.0**：支持颜色粘贴板
-- **v1.2.0**：支持原生粘贴板，改进性能
-- **v1.3.0**：引入命令行模式
+**正如 changelog 中所见，最近多个版本都有大量的 pr 是在进行重构并打上了 multiplatform 标签，是的我们正在努力推出移动版本，这些都是在为提供移动端做铺垫，所以在退出移动版本之前只会进行 bug 修复以及已经确定的少量新特性。**
+
+- [ ] **v1.0.12**：支持 RTF 格式粘贴板
+- [ ] **v1.0.13**：支持颜色类型粘贴板
+- [ ] **v1.1.0**: 支持移动端，与移动端共享粘贴板
+- [ ] **v1.2.0**：支持原生粘贴板，改进性能
+- [ ] **v1.3.0**：引入命令行模式
 
 这只是我们计划的一小部分。想了解更多细节和长期规划？查看我们的[完整路线图](doc/zh/Roadmap.md)。
 
@@ -88,3 +92,11 @@ CrossPaste 正在持续发展中！我们计划在未来的版本中添加更多
 - **📖 翻译**：帮助 CrossPaste 翻译、润色到你的[语言](https://github.com/CrossPaste/crosspaste-desktop/tree/main/composeApp/src/desktopMain/resources/i18n)。
 - **📝 贡献**：[贡献代码](doc/zh/Contributing.md)、评论 issue，欢迎一切可以帮助到项目的贡献。
 - **💖 赞助支持**: 通过 [GitHub Sponsors](https://github.com/sponsors/CrossPaste) 在经济上支持项目，以帮助持续开发和维护。
+
+## 📝 贡献者
+<a href="https://github.com/CrossPaste/crosspaste-desktop/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=CrossPaste/crosspaste-desktop" />
+</a>
+
+## 💖 赞助
+<img src="https://avatars.githubusercontent.com/u/27792976?s=60&v=4"/>
